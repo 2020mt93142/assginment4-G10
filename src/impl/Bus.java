@@ -5,16 +5,16 @@ import assignmentG10.vehicle.Vehicle;
 public class Bus implements Vehicle {
     @Override
     public void shiftGear() {
-        System.out.println("Shifting gear of Bus");
+        System.out.println("Upgrading Shifting gear of Bus");
     }
 
     @Override
     public void applyBreak() {
-        System.out.println("Applying break for Bus");
+        System.out.println("Upgrading Applying break for Bus");
     }
 
     @Override
     public void honkHorn() {
-        System.out.println("honk horn gear for Bus");
+        System.out.println(" Upgrading honk horn gear for Bus");
     }
 }
