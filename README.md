@@ -7,6 +7,7 @@ This project contains a Vehicle interface and its different implementations
 3. Scooter
 4. Bus
 5. Bike
+6. Van
 
 Vehicle interface has three method declaration
 1. shiftGear
